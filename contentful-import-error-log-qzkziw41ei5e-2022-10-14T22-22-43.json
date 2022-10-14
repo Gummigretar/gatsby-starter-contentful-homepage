@@ -1,0 +1,247 @@
+[
+  {
+    "ts": "2022-10-14T22:24:18.406Z",
+    "level": "error",
+    "error": {
+      "name": "VersionMismatch",
+      "entity": {
+        "original": {
+          "metadata": {
+            "tags": [
+            ]
+          },
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "p39nycxzit31"
+              }
+            },
+            "id": "5iQbzdKPBQCy98WtkX5bT3",
+            "type": "Entry",
+            "createdAt": "2022-01-10T14:56:29.075Z",
+            "updatedAt": "2022-01-19T21:00:59.222Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "publishedVersion": 15,
+            "publishedAt": "2022-01-19T21:00:59.222Z",
+            "firstPublishedAt": "2022-01-10T20:16:09.577Z",
+            "createdBy": {
+              "sys": {
+                "type": "Link",
+                "linkType": "User",
+                "id": "4SDtqAl8Y6iEC5454bbsbU"
+              }
+            },
+            "updatedBy": {
+              "sys": {
+                "type": "Link",
+                "linkType": "User",
+                "id": "4SDtqAl8Y6iEC5454bbsbU"
+              }
+            },
+            "publishedCounter": 3,
+            "version": 16,
+            "publishedBy": {
+              "sys": {
+                "type": "Link",
+                "linkType": "User",
+                "id": "4SDtqAl8Y6iEC5454bbsbU"
+              }
+            },
+            "contentType": {
+              "sys": {
+                "type": "Link",
+                "linkType": "ContentType",
+                "id": "homepageLogoList"
+              }
+            }
+          },
+          "fields": {
+            "name": {
+              "en-US": "Logo List"
+            },
+            "text": {
+              "en-US": "Join other industry-leading organizations pushing boundaries with Gatsby"
+            },
+            "logos": {
+              "en-US": [
+                {
+                  "sys": {
+                    "type": "Link",
+                    "linkType": "Entry",
+                    "id": "2JR3oqAVX1piHeqafX3J0r"
+                  }
+                },
+                {
+                  "sys": {
+                    "type": "Link",
+                    "linkType": "Entry",
+                    "id": "1Cw1Pzla2UoVcVy8CtSQgW"
+                  }
+                },
+                {
+                  "sys": {
+                    "type": "Link",
+                    "linkType": "Entry",
+                    "id": "5O8a7LFl1AGVn21PvG7JnN"
+                  }
+                },
+                {
+                  "sys": {
+                    "type": "Link",
+                    "linkType": "Entry",
+                    "id": "24jYp6yHUbL0fzfGcDX64Z"
+                  }
+                },
+                {
+                  "sys": {
+                    "type": "Link",
+                    "linkType": "Entry",
+                    "id": "3iYXy2r5pPdblrMWPs7v2t"
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "transformed": {
+          "metadata": {
+            "tags": [
+            ]
+          },
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "p39nycxzit31"
+              }
+            },
+            "id": "5iQbzdKPBQCy98WtkX5bT3",
+            "type": "Entry",
+            "createdAt": "2022-01-10T14:56:29.075Z",
+            "updatedAt": "2022-01-19T21:00:59.222Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "publishedVersion": 15,
+            "publishedAt": "2022-01-19T21:00:59.222Z",
+            "firstPublishedAt": "2022-01-10T20:16:09.577Z",
+            "createdBy": {
+              "sys": {
+                "type": "Link",
+                "linkType": "User",
+                "id": "4SDtqAl8Y6iEC5454bbsbU"
+              }
+            },
+            "updatedBy": {
+              "sys": {
+                "type": "Link",
+                "linkType": "User",
+                "id": "4SDtqAl8Y6iEC5454bbsbU"
+              }
+            },
+            "publishedCounter": 3,
+            "version": 16,
+            "publishedBy": {
+              "sys": {
+                "type": "Link",
+                "linkType": "User",
+                "id": "4SDtqAl8Y6iEC5454bbsbU"
+              }
+            },
+            "contentType": {
+              "sys": {
+                "type": "Link",
+                "linkType": "ContentType",
+                "id": "homepageLogoList"
+              }
+            }
+          },
+          "fields": {
+            "name": {
+              "en-US": "Logo List"
+            },
+            "text": {
+              "en-US": "Join other industry-leading organizations pushing boundaries with Gatsby"
+            },
+            "logos": {
+              "en-US": [
+                {
+                  "sys": {
+                    "type": "Link",
+                    "linkType": "Entry",
+                    "id": "2JR3oqAVX1piHeqafX3J0r"
+                  }
+                },
+                {
+                  "sys": {
+                    "type": "Link",
+                    "linkType": "Entry",
+                    "id": "1Cw1Pzla2UoVcVy8CtSQgW"
+                  }
+                },
+                {
+                  "sys": {
+                    "type": "Link",
+                    "linkType": "Entry",
+                    "id": "5O8a7LFl1AGVn21PvG7JnN"
+                  }
+                },
+                {
+                  "sys": {
+                    "type": "Link",
+                    "linkType": "Entry",
+                    "id": "24jYp6yHUbL0fzfGcDX64Z"
+                  }
+                },
+                {
+                  "sys": {
+                    "type": "Link",
+                    "linkType": "Entry",
+                    "id": "3iYXy2r5pPdblrMWPs7v2t"
+                  }
+                }
+              ]
+            }
+          }
+        }
+      },
+      "data": {
+        "status": 409,
+        "statusText": "Conflict",
+        "message": "",
+        "details": {
+        },
+        "request": {
+          "url": "/spaces/qzkziw41ei5e/environments/master/entries/5iQbzdKPBQCy98WtkX5bT3",
+          "headers": {
+            "Accept": "application/json, text/plain, */*",
+            "Content-Type": "application/vnd.contentful.management.v1+json",
+            "X-Contentful-User-Agent": "app contentful.import/8.3.9; feature library-import; sdk contentful-management.js/10.15.1; platform node.js/v16.15.0; os Windows/v16.15.0;",
+            "CF-Sequence": "744c7430-4d6a-4966-921e-b0ad0d27901b",
+            "Authorization": "Bearer ...Hm78Q",
+            "user-agent": "node.js/v16.15.0",
+            "Accept-Encoding": "gzip",
+            "X-Contentful-Version": 4,
+            "Content-Length": 541
+          },
+          "method": "put",
+          "payloadData": "{\"metadata\":{\"tags\":[]},\"fields\":{\"name\":{\"en-US\":\"Logo List\"},\"text\":{\"en-US\":\"Join other industry-leading organizations pushing boundaries with Gatsby\"},\"logos\":{\"en-US\":[{\"sys\":{\"type\":\"Link\",\"linkType\":\"Entry\",\"id\":\"2JR3oqAVX1piHeqafX3J0r\"}},{\"sys\":{\"type\":\"Link\",\"linkType\":\"Entry\",\"id\":\"1Cw1Pzla2UoVcVy8CtSQgW\"}},{\"sys\":{\"type\":\"Link\",\"linkType\":\"Entry\",\"id\":\"5O8a7LFl1AGVn21PvG7JnN\"}},{\"sys\":{\"type\":\"Link\",\"linkType\":\"Entry\",\"id\":\"24jYp6yHUbL0fzfGcDX64Z\"}},{\"sys\":{\"type\":\"Link\",\"linkType\":\"Entry\",\"id\":\"3iYXy2r5pPdblrMWPs7v2t\"}}]}}}"
+        },
+        "requestId": "99f70555-fb80-4773-96ab-02232ec55aa0"
+      }
+    }
+  }
+]
