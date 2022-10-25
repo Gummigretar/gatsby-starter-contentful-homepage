@@ -1,7 +1,7 @@
 import * as React from "react"
 
 export default function GatsbyContentfulLogo() {
-  return (
+  return ( 
     <svg
       width="82"
       height="24"

@@ -288,6 +288,14 @@ exports.createSchemaCustomization = async ({ actions }) => {
       content: [HomepageBlock]
     }
 
+    interface SoftwarePage implements Node {
+      id: ID!
+      title: String
+      description: String
+      image: HomepageImage
+      content: [HomepageBlock]
+    }
+
     interface AboutHero implements Node & HomepageBlock {
       id: ID!
       blocktype: String
