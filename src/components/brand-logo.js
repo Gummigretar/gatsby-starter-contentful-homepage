@@ -1,7 +1,12 @@
 import * as React from "react"
+import { StaticImage } from "gatsby-plugin-image"
 
+const width = 150
 export default function GatsbyContentfulLogo() {
-  return ( 
+  return <StaticImage src="../images/logo2-150x45.png" width={width} />
+
+
+  /*return ( 
     <svg
       width="82"
       height="24"
@@ -45,5 +50,5 @@ export default function GatsbyContentfulLogo() {
         strokeWidth="1.5"
       />
     </svg>
-  )
+  )*/
 }

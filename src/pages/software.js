@@ -4,7 +4,7 @@ import Layout from "../components/layout"
 import * as sections from "../components/sections"
 import Fallback from "../components/fallback"
 
-export default function Software(props) {
+export default function About(props) {
   const { aboutPage } = props.data
 
   return (
@@ -36,6 +36,7 @@ export const query = graphql`
         ...HomepageProductListContent
         ...AboutLeadershipContent
         ...HomepageBenefitListContent
+        ...AboutLogoListContent
       }
     }
   }
