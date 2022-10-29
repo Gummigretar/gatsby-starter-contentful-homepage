@@ -51,7 +51,12 @@ const MyForm = () => {
             <br></br>
             <div className="form-group">
                 <label for="exampleInputEmail1" required="required">Netfang</label>
-                <input type="email" name="email" className="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder=""/>
+                <input type="email" name="email" className="form-control" id="exampleInputEmail1" aria-describedby="" placeholder=""/>
+            </div> 
+            <br></br>
+            <div className="form-group">
+                <label for="exampleInputEmail1" required="required">Skilaboð</label>
+                <textarea rows="4" name="message" className="form-control" id="message1" aria-describedby="" placeholder=""></textarea>
             </div> 
             <br></br>
             <button type="submit" className="btn btn-primary"  disabled={serverState.submitting}>
